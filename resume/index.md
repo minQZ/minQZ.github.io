@@ -4,9 +4,11 @@
 * GitHub -  [github.com/minQZ](https://github.com/minQZ/)
 
 ## 활동
+<!-- 
 * 2017.07~09 : 카카오 Code Festival 출제 및 검수
 * 2017.07~10 : 넥슨 NYPC 출제 및 검수
 * 2017.07 : 제34회 한국정보올림피아드 경시대회 출제 및 검수
+-->
 * 2017 : 고려대학교 알고리즘동아리 ALKOR 회장
 * 2017~ : 삼성SDS Professional 문제풀이반 강사
 * 2017~ : 삼성전자 Professional 양성과정 강사
@@ -15,10 +17,10 @@
 
 ## 교육
 * 2017.09~ : 융합보안융합전공, 고려대학교
-* 2016~ : 사이버국방학과, 정보보호학부, 고려대학교 재학
+* 2016~ : 정보보호학부, 고려대학교 재학
 * 2013~2015 : 경기과학고등학교 졸업
 
-## 수상
+## 참가 & 수상
 * 2018 ACM-ICPC Asia Hanoi Regional Contest, 5th Place 
   * [Scoreboard](https://hanoi18.kattis.com/standings) (팀명: Teeeeeeeeeeeeemo needs blue buff)
 * 2018 ACM-ICPC Asia Seoul Regional Contest, 6th Place 
