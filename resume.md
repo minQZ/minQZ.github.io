@@ -1,4 +1,5 @@
-# Resume
+Resume
+===
 
 ## 소개
 * 최민제 (Minje Choi)
